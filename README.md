@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdadmi&label=Profile%20views&color=0e75b6&style=flat" alt="imdadmi" /> </p>
 
-- 🌱 I’m currently learning ** React with TypeScript **
+- 🌱 I’m currently learning **React with TypeScript**
 
 - 📫 How to reach me **admiwapo@gmail.com**
 
