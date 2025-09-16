@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdadmi&label=Profile%20views&color=0e75b6&style=flat" alt="imdadmi" /> </p>
 
-- 🌱 I’m currently learning **Js Testing frameworks (Jest, Jasmine and Karma)**
+- 🌱 I’m currently learning **Oracle Cloud Infrastructure Certification**
 
 - 📫 How to reach me **admiwapo@gmail.com**
 
